@@ -1,0 +1,10 @@
+.git
+.hg
+
+*.pyc
+*.pyo
+
+.DS_Store
+
+*.jpg
+*.psd
