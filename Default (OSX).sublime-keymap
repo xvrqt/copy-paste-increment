@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["super+shift+alt+v"],
+        "command": "copy_paste_increment_input"
+    },
+    {
+        "keys": ["super+shift+ctrl+v"],
+        "command": "copy_paste_increment"
+    }
+]

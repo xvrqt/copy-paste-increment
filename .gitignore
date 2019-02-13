@@ -1,10 +1,6 @@
-.git
-.hg
-
+# Python Objects
 *.pyc
 *.pyo
 
+# MacOS Garbage
 .DS_Store
-
-*.jpg
-*.psd
