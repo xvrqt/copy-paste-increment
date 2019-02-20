@@ -27,8 +27,7 @@ class CopyPasteIncrementCommand(sublime_plugin.TextCommand):
 
 	def run(self, edit, **kwargs):
 		num_duplications = int(kwargs.get('num_duplications', 1))
-		print('gay girls')
-		print(num_duplications)
+    
 		# Collect each region, selecting by at the line level
 		regions = []
 		for region in self.view.sel():
